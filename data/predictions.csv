@@ -1,0 +1,8 @@
+Message,Prediction,Confidence,DateTime
+"Hi, are we meeting tomorrow at 10 AM?",NOT SPAM,98.66%,2026-10-01 19:39:35
+Congratulations! You have won a free prize. Click now to claim your reward!,SPAM,94.06%,2026-10-01 20:14:34
+HEY.how are you?,NOT SPAM,98.74%,2026-10-01 20:20:41
+Congratulations! You have won a FREE prize. Click now to claim your reward!,SPAM,94.06%,2026-10-01 20:50:45
+Congratulations! You have won a FREE prize. Click now to claim your reward!,SPAM,94.06%,2026-10-01 20:50:48
+"Hi, are we meeting tomorrow for the project discussion?",NOT SPAM,99.47%,2026-10-01 20:50:53
+"Hi, are we meeting tomorrow for the project discussion?",NOT SPAM,99.47%,2026-10-01 20:50:57
